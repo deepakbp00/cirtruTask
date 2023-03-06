@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cirtruTask/static/css/main.b89781f3.css",
-    "main.js": "/cirtruTask/static/js/main.555fd40e.js",
+    "main.css": "/cirtruTask/static/css/main.9bf37a1a.css",
+    "main.js": "/cirtruTask/static/js/main.d09948b6.js",
     "index.html": "/cirtruTask/index.html",
-    "main.b89781f3.css.map": "/cirtruTask/static/css/main.b89781f3.css.map",
-    "main.555fd40e.js.map": "/cirtruTask/static/js/main.555fd40e.js.map"
+    "main.9bf37a1a.css.map": "/cirtruTask/static/css/main.9bf37a1a.css.map",
+    "main.d09948b6.js.map": "/cirtruTask/static/js/main.d09948b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b89781f3.css",
-    "static/js/main.555fd40e.js"
+    "static/css/main.9bf37a1a.css",
+    "static/js/main.d09948b6.js"
   ]
 }
