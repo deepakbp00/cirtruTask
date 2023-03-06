@@ -75,7 +75,6 @@
   position:relative;
 }
 .dropDowns .button{
-  position :absolute;
   /* margin:0 20px; */
   right:0px;
   height: 25px;

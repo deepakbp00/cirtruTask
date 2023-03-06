@@ -29,8 +29,8 @@ function App() {
   const filterData = (cards) => {
     return search.toLowerCase() === ""
       ? cards
-      : cards.make.toLowerCase().includes(search) ||
-          cards.model.toLowerCase().includes(search);
+      : cards.make.toLowerCase().includes(search.toLowerCase()) ||
+          cards.model.toLowerCase().includes(search.toLowerCase());
   };
 
   const filterYear = (cards) => {
